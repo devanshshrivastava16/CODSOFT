@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Taskfirst {
+class Task1 {
 
     int generateRandom() {
         Random rand = new Random();
@@ -37,7 +37,7 @@ class Taskfirst {
 
     public static void main(String args[]) {
         Scanner sc = new Scanner(System.in);
-        Taskfirst game = new Taskfirst();
+        Task1 game = new Task1();
         int again;
 
         do {
