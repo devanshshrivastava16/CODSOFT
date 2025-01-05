@@ -1,5 +1,5 @@
 import java.util.*;
-class Main {
+class Task2 {
     String grade(int n) {
         String g;
         if (n >= 90 && n <= 100) {
@@ -52,7 +52,7 @@ class Main {
     }
 
     public static void main(String args[]) {
-        Main ob = new Main();
+        Task2 ob = new Task2();
         ob.input();
     }
 }
