@@ -1,5 +1,5 @@
 import java.util.*;
-class Task2 {
+class Task2 {                
     String grade(int n) {
         String g;
         if (n >= 90 && n <= 100) {
