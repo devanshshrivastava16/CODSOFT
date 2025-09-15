@@ -1,8 +1,8 @@
 import java.util.*;
 class Task2 {                
-    String grade(int n) {
+    String grade(int n) { 
         String g; 
-        if (n >= 90 && n <= 100) {
+        if (n >= 90 && n <= 100) { 
             g = "A+"; 
         } else if (n >= 80 && n < 90) {
             g = "A";
